@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Learn Your Alphabet/1.0.0": {
+        "runtime": {
+          "Learn Your Alphabet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learn Your Alphabet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

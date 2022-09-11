@@ -1,0 +1,5 @@
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Learn Your Alphabet.exe
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Learn Your Alphabet.dll
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Learn Your Alphabet.deps.json
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Learn Your Alphabet.runtimeconfig.json
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Learn Your Alphabet.pdb

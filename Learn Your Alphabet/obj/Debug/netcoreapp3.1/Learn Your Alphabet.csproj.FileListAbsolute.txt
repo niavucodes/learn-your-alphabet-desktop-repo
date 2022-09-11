@@ -1,0 +1,17 @@
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Debug\netcoreapp3.1\Learn Your Alphabet.exe
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Debug\netcoreapp3.1\Learn Your Alphabet.deps.json
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Debug\netcoreapp3.1\Learn Your Alphabet.runtimeconfig.json
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Debug\netcoreapp3.1\Learn Your Alphabet.runtimeconfig.dev.json
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Debug\netcoreapp3.1\Learn Your Alphabet.dll
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\bin\Debug\netcoreapp3.1\Learn Your Alphabet.pdb
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.csproj.AssemblyReference.cache
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn_Your_Alphabet.Properties.Resources.resources
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.csproj.GenerateResource.cache
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.AssemblyInfoInputs.cache
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.AssemblyInfo.cs
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.dll
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.pdb
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn Your Alphabet.genruntimeconfig.cache
+C:\Users\Kiti\Desktop\Learn Alphabet\Learn Your Alphabet\obj\Debug\netcoreapp3.1\Learn_Your_Alphabet.LearnYourAlphabet.resources
